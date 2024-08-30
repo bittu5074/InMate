@@ -1,0 +1,53 @@
+#Mybutton2 {
+    z-index: 1;
+    position: fixed;
+    right: -741px;
+    bottom: 19px;
+}
+#Mybutton2 {
+    display: block;
+}
+#wha3 {
+    color: grey;
+}
+#wha3 {
+    text-decoration: none;
+}
+
+#wha3 {
+    background-color: transparent;
+}
+.btn-success {
+    background-color: transparent;
+    width: 8%;
+    border-radius: 100px;
+    border: none;
+    height: 72px;
+}
+#wha{
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+html input[type=button], input[type=reset], input[type=submit] {
+    -webkit-appearance: button;
+    cursor: pointer;
+} 
+#wha{
+    -webkit-appearance: button;
+    cursor: pointer;
+
+}
+select {
+    text-transform: none;
+}
+#wha{
+    text-transform: none;
+}
+
+#wha2 {
+    vertical-align: middle;
+    border-radius: 100px;
+    border: none;
+    width: 80%;
+}
